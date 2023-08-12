@@ -1,5 +1,5 @@
 const express = require('express');
-const {verifyRoom} = require('../controllers/chatRoomController');
+const {verifyRoom} = require('../controllers/chatroomController');
 
 const router = express.Router();
 
